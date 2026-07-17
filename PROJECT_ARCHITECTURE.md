@@ -22,7 +22,7 @@ The objective is to provide a high-level technical blueprint for understanding t
 
 # Architecture Overview
 
->[Project Architecture](07_assets/diagrams/project_architecture.svg)
+>![Project Architecture](07_assets/diagrams/project_architecture.svg)
 ---
 
 # Project Layers
