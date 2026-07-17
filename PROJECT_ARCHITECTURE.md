@@ -243,27 +243,7 @@ This structure provides complete analytical traceability.
 
 # Repository Architecture
 
-```
-Repository
-
-│
-
-├── Raw Data
-
-├── Processed Data
-
-├── SQL
-
-├── Analysis
-
-├── Outputs
-
-├── Dashboard
-
-├── Documentation
-
-└── Assets
-```
+>![Repository Map](07_assets/diagrams/repository_map.svg)
 
 Each folder represents a distinct stage within the analytical lifecycle.
 
