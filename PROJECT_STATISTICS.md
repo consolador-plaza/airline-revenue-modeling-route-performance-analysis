@@ -101,12 +101,6 @@ The statistics presented here describe the repository at the time of the **v1.0.
 | Analytical Focus Areas | Revenue, Demand, Capacity, Route Performance, Executive Overview |
 | Data Source | route_performance_analytics |
 
-> **Note:** After the final dashboard review, consider updating this section with:
-> - Total visuals
-> - Total DAX measures
-> - Total calculated columns
-> - Total slicers
-
 ---
 
 # Documentation
